@@ -60,7 +60,7 @@ Created a **Streamlit Dashboard** that provides:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/dynamic-sales-forecasting.git
+git clone https://github.com/devopspower/dynamic-sales-forecasting.git
 
 ```
 
@@ -89,3 +89,4 @@ streamlit run app.py
 
 - **Weekly Seasonality:** The model successfully identified consistent weekend peaks and weekday valleys.
 - **Inventory Optimization:** High accuracy on validation data allows for a reduction in "Safety Stock" levels, directly impacting the bottom line by reducing storage costs.
+
