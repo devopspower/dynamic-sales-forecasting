@@ -1,6 +1,6 @@
 # Dynamic Sales Forecasting (LSTM)
 
-An end-to-end deep learning solution for high-precision demand forecasting using the **Kaggle Store Item Demand** dataset. This project implements a **Long Short-Term Memory (LSTM)** network in PyTorch to capture multi-year seasonal trends and daily sales fluctuations.
+An end-to-end deep learning solution for high-precision demand forecasting using the **Kaggle Store Item Demand** [dataset](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview). This project implements a **Long Short-Term Memory (LSTM)** network in PyTorch to capture multi-year seasonal trends and daily sales fluctuations.
 
 ## 📊 Project Performance
 
@@ -88,5 +88,6 @@ streamlit run app.py
 
 - **Weekly Seasonality:** The model successfully identified consistent weekend peaks and weekday valleys.
 - **Inventory Optimization:** High accuracy on validation data allows for a reduction in "Safety Stock" levels, directly impacting the bottom line by reducing storage costs.
+
 
 
