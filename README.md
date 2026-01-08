@@ -53,7 +53,6 @@ Created a **Streamlit Dashboard** that provides:
 - `train.py`: The training loop and walk-forward validation logic.
 - `main.py`: Entry point for orchestrating the pipeline.
 - `app.py`: Interactive Streamlit dashboard.
-- `sales_lstm.pth`: Saved weights of the optimized model.
 
 ## 🚀 Getting Started
 
@@ -89,4 +88,5 @@ streamlit run app.py
 
 - **Weekly Seasonality:** The model successfully identified consistent weekend peaks and weekday valleys.
 - **Inventory Optimization:** High accuracy on validation data allows for a reduction in "Safety Stock" levels, directly impacting the bottom line by reducing storage costs.
+
 
